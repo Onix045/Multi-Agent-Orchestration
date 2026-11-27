@@ -3,7 +3,7 @@
 A research assistant that answers from your documents and the web, cites where each claim came
 from, and refuses to make things up.
 
-[![CI](https://github.com/Onix45/Multi-Agent-Orchestration/actions/workflows/ci.yml/badge.svg)](https://github.com/Theepankumargandhi/Multi-Agent-Orchestration/actions/workflows/ci.yml)
+[![CI](https://github.com/Onix045/Multi-Agent-Orchestration/actions/workflows/ci.yml/badge.svg)](https://github.com/Theepankumargandhi/Multi-Agent-Orchestration/actions/workflows/ci.yml)
 
 Most chat assistants write a fluent answer first and leave you to work out which parts are true.
 CiteRight checks the answer before you see it. Every factual claim is matched against the evidence
